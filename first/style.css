@@ -1,0 +1,41 @@
+html, body {
+	height: 100%;
+}
+
+.head {
+	background-color: #35352B;
+	height: 16%;
+	width: 100%;
+}
+
+.leftside {
+	background-color: grey;
+	height: 84%;
+	width: 15%;
+	float: left;
+}
+
+.middle {
+	height: 84%;
+	width: 70%;
+	float: left;
+}
+
+.middlebastard {
+	background-color: white;
+	height: 90%;
+	width: 100%;
+}
+
+.littlebastard {
+	background-color: #35352B;
+	height: 10%;
+	width: 100%;
+}
+
+.rightside {
+	background-color: grey;
+	height: 84%;
+	width: 15%;
+	float: left;
+}
