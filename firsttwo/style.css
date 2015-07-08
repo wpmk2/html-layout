@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: dimgray
+}
+
+.head {
+    height: 15%;
+    width: 100%;
+    background-color: darkgray;
+}
+
+.middle {
+    height: 85%;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.middlebastard {
+    height: 90%;
+    width: 100%;
+    background-color: white;
+}
+
+.littlebastard {
+    height: 10%;
+    width: 100%;
+    background-color: darkgray;
+}
